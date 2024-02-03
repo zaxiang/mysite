@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b550dfa-81bf-420d-8861-e232d60da0bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/adidoks" beforeDir="false" afterPath="$PROJECT_DIR$/themes/adidoks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/adidoks/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/adidoks/content/_index.md" afterDir="false" />
@@ -17,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/adidoks" />
   </component>
   <component name="ProjectId" id="2bpgh3OwS4EfDurWln2AVJ9gcVZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
